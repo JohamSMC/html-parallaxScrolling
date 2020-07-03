@@ -18,7 +18,7 @@ section
     height: 100vh;
     overflow: hidden;
     display: flex;
-    justify-items: center;
+    justify-content: center;
     align-items: center;
 }
 section::before
@@ -52,4 +52,11 @@ section img
     height: 100%;
     object-fit: cover;
     pointer-events: none;
+}
+#title
+{
+    position: relative;
+    color: #fff;
+    font-size: 3em;
+    z-index: 1;
 }
