@@ -1,0 +1,30 @@
+#countDown {
+    margin-top: 17em;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 100px;
+}
+
+.simply-section {
+    color: azure;
+	background:#034373;
+	width: 180px;
+	height: 180px;
+	margin: 0 20px;
+	border-radius: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+.simply-amount {
+	display: block;
+	font-size: 3.7em;
+    font-weight: 700;
+}
+
+.simply-word {
+	font-weight: 300;
+	font-size: 1.8em;
+}
