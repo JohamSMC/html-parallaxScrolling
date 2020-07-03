@@ -60,3 +60,7 @@ section img
     font-size: 3em;
     z-index: 1;
 }
+#road
+{
+    z-index: 2;
+}
