@@ -1,7 +1,7 @@
 simplyCountdown('#countDown', {
 	year: 2020, // required
-	month: 10, // required
-	day: 25, // required
+	month: 4, // required
+	day: 26, // required
 	hours: 23, // Default is 0 [0-23] integer
 	minutes: 59, // Default is 0 [0-59] integer
 	seconds: 59, // Default is 0 [0-59] integer
@@ -26,5 +26,5 @@ simplyCountdown('#countDown', {
 	amountClass: 'simply-amount', // amount css class
 	wordClass: 'simply-word', // word css class
 	zeroPad: false,
-	countUp: true
+	countUp: false
 });
